@@ -1,0 +1,17 @@
+Categories:
+  - Religion
+License: GPL-3.0-only
+AuthorName: el3mm_mesoo
+WebSite: https://el3mmeso.github.io/noor/
+SourceCode: https://github.com/El3mMeso/noor
+IssueTracker: https://github.com/El3mMeso/noor/issues
+AutoName: نور | Noor
+Summary: Prayer times, adhkar, Quran and qibla. Sadaqah jariyah.
+Description: |-
+  Arabic (RTL) app: prayer times and alerts, adhan in four voices, adhkar,
+  Quran with tafsir and recitation, tasbih, qibla and Hijri date.
+
+  Sadaqah jariyah for all deceased Muslims.
+
+  The religious texts were checked against reference sources but have not had a
+  final scholarly review yet.
